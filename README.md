@@ -1,1 +1,1 @@
-# ClassBook-For-MacOS
+# ClassBook For MacOS
